@@ -113,9 +113,5 @@ By completing this task, you will have:
 
 ---
 
-## 📬 **Author**
-BabySoC Week-7 Physical Design Task • OpenROAD Flow  
-Feel free to contribute, fork, or ask questions!
 
----
 
